@@ -21,4 +21,4 @@ Perform sentiment analysis on customer reviews using:
 
 ---
 
-⭐ Internship Task Completed by: **Amit Ramchandra Mali, MITAOE, ALANDI**
+⭐ Internship Task Completed by: **GONDU SUDARSANA RAO**
